@@ -1,6 +1,6 @@
 <script setup>
 import { ref, computed } from 'vue';
-import PokemonList from '@/pokemon/pokemonList.vue';
+import PokemonList from '@/pokemon/PokemonList.vue';
 import { fetchPromise } from '@/utils/fetchData';
 
 // ref state
